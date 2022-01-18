@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+      body {
+        font-family: "Alata",sans-serif;
+        background-image: url(wave.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;       
+        color:rgb(100, 40, 40);
+        margin-top: 5rem;
+        font-weight: bolder;        
+    }
